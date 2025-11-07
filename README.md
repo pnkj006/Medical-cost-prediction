@@ -54,8 +54,7 @@ The aim of this project is to explore how **age**, **BMI**, **number of children
 
 | Metric | Value (Approx.) |
 |--------|----------------|
-| R² | 0.75 |
-| Adjusted R² | 0.74 |
+| R² | 0.94 |
 | MAE | 0.07 (normalized scale) |
 | RMSE | 0.10 | Low, indicating strong fit |
 
